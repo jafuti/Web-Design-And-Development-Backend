@@ -1,0 +1,86 @@
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\csc.exe
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\vbc.exe
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\PizzaStore.dll.config
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\PizzaStore.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\PizzaStore.pdb
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\DevU\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csprojResolveAssemblyReference.cache
+C:\Temp\DevU\PizzaStore\PizzaStore\obj\Debug\PizzaStore.dll
+C:\Temp\DevU\PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\csc.exe
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\vbc.exe
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\PizzaStore.dll.config
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\PizzaStore.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\PizzaStore.pdb
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csprojResolveAssemblyReference.cache
+C:\Temp\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.dll
+C:\Temp\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\csc.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\vbc.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\PizzaStore.dll.config
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\PizzaStore.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\PizzaStore.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csprojAssemblyReference.cache
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CopyComplete
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\DevU\5-PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\10-ASPserverControlsPart2\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\10-ASPserverControlsPart2\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\csc.exe
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\vbc.exe
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\PizzaStore.dll.config
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\PizzaStore.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\PizzaStore.pdb
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CopyComplete
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.dll
+C:\Users\Jafar\Desktop\New folder (2)\B-PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb

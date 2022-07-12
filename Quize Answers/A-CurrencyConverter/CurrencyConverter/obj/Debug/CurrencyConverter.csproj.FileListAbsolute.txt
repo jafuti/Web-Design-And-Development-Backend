@@ -1,0 +1,87 @@
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\csc.exe
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\vbc.exe
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Temp\ASP45Examples\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\ASP45\ASP45Examples\1-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\ASP45\ASP45Examples\1-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\ASP45\Beginning ASP.NET 4.5 in C#\ASP45Examples\1-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\BookDemosAndTutorials\ASP45\Beginning ASP.NET 4.5 in C#\ASP45Examples\1-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\csc.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\vbc.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\ccUdemy\5-Challenges\B-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\csc.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\vbc.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Temp\OnlineCourses\Udemy\UdemyASPNETWebFormsForBeginners\SectionLectures\3-CreatingWebForms\17-Challenge2\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\csc.exe
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\vbc.exe
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Users\Jafar\Desktop\New folder (2)\A-CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
