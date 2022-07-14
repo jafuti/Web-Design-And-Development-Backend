@@ -1,0 +1,89 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StudentDetails</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm bg-info navbar-dark">
+
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/home/index">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/home/about">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/home/studentDetails">Student Details</a>
+            </li>
+        </ul>
+    </nav>
+    @{        
+        string studentResult;
+        if (ViewBag.Mark >= 70) {
+            studentResult = "Pass";
+        }
+        else
+        {
+            studentResult = "Fail";
+        }
+
+     }
+    <div class="container-fluid">
+        <div class="jumbotron">
+            <table class="table">
+                <tr>
+                    <th>Student ID</th>
+                    <th>@ViewBag.Id</th>
+                </tr>
+                <tr>
+                    <th>Student Name</th>
+                    <th>@ViewBag.Name</th>
+                </tr>
+                <tr>
+                    <th>Student Mark</th>
+                    <th>@ViewBag.Mark</th>
+                </tr>
+                <tr>
+                    <th>Student Result</th>
+                    <th>@studentResult</th>
+                </tr>
+                <tr>
+                    <th>Fail or Pass</th>
+                    <td>
+                        @if (studentResult=="Pass")
+            {
+
+
+<span class="text-success">Congraulations</span>
+            }
+            else
+            {
+<span class="text-danger">Try Next Time</span>
+            }
+                    </td>
+                </tr>
+                <tr>
+                    <th>Course</th>
+                    <td>
+                        @foreach(var course in ViewBag.Course)
+            {
+             <span>@course</span>
+            }
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+</body>
+</html>
