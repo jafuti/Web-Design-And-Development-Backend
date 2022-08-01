@@ -1,0 +1,28 @@
+﻿@model List<WebApplication10.Models.Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>List Of Products</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Product Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+            {
+        <tr>
+            <td>@item.Id</td>
+            <td>
+                <a href="/product/details/@item.Id">@item.ProductName</a> 
+            </td>
+            <td>@item.Price</td>
+        </tr>
+            }
+    </tbody>
+</table>

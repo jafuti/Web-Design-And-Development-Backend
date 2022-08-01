@@ -1,0 +1,22 @@
+﻿@model WebApplication10.Models.Product
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Details</h1>
+
+<table class="table">
+    <tr>
+        <th>Product ID</th>
+        <td>@Model.Id </td>
+    </tr>
+    <tr>
+        <th>Product Name</th>
+        <td>@Model.ProductName </td>
+    </tr>
+    <tr>
+        <th>Product Price</th>
+        <td>@Model.Price </td>
+    </tr>
+</table>
