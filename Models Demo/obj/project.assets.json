@@ -6338,11 +6338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jafar\\Desktop\\Layout Demos\\WebApplication10.csproj",
+      "projectUniqueName": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\Models Demo\\WebApplication10.csproj",
       "projectName": "WebApplication10",
-      "projectPath": "C:\\Users\\Jafar\\Desktop\\Layout Demos\\WebApplication10.csproj",
+      "projectPath": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\Models Demo\\WebApplication10.csproj",
       "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jafar\\Desktop\\Layout Demos\\obj\\",
+      "outputPath": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\Models Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
