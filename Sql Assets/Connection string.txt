@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=PC1\JAF;Initial Catalog=EcommerceDatabase;Integrated Security=True;Pooling=False" Microsoft.EntityFrameworkCore.SqlServer -outputDir Models

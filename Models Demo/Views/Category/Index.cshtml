@@ -1,0 +1,20 @@
+﻿@model List<WebApplication10.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+
+
+}
+
+<table class="table">
+    <tr>
+        <th>Category ID</th>
+        <th>Category Name</th>
+    </tr>
+    @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.CategoryId</td>
+                    <td>@item.CategoryName</td>
+                </tr>
+            }
+</table>
