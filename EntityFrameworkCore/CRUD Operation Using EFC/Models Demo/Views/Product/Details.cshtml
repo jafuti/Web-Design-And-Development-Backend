@@ -1,0 +1,39 @@
+﻿@model WebApplication10.Models.Product
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details of Product</h1>
+
+<table class="table">
+    <tr>
+        <th>Product ID</th>
+        <td>@Model.ProductId</td>
+    </tr>
+    <tr>
+        <th>Product Name</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Date of Purchase</th>
+        <td>@Model.DateOfPurchase</td>
+    </tr>
+    <tr>
+        <th>Availablity Status</th>
+        <td>@Model.AvailabilityStatus</td>
+    </tr>
+    <tr>
+        <th>CategoryId</th>
+        <td>@Model.CategoryId</td>
+    </tr>
+    <tr>
+        <th>Brand Id</th>
+        <td>@Model.BrandId</td>
+    </tr>
+    <tr>
+        <th>Brand Id</th>
+        <td>@Model.Active</td>
+    </tr>
+</table>
+
+<a href="/product/index" class="btn btn-info">Back to home Page</a>

@@ -1,0 +1,33 @@
+﻿@model WebApplication10.Models.Product 
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete Product</h2>
+<form action="/product/delete/@Model.ProductId" method="post">
+    <table class="table">
+        <tr>
+            <td>
+                <label for="ProductName">Product Name</label>
+            </td>
+            <td>
+                <input type="hidden" name="ProductID" value="@Model.ProductId" />
+                @Model.ProductName
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="Price">Price</label>
+            </td>
+            <td>
+                @Model.Price
+            </td>
+        </tr>
+    </table>
+
+    <div>Are you sure to delete this product?</div>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a class="btn btn-warning" href="/product/index">Cancel</a>
+</form>
+
+

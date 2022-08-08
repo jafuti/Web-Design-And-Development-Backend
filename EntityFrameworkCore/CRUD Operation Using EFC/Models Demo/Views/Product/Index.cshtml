@@ -1,0 +1,50 @@
+﻿@model List<WebApplication10.Models.Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form class="d-flex">
+    <input class="form-control me-sm-2" type="text" placeholder="Search" name="search" value="@ViewBag.search">
+    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+</form>
+<table class="table">
+    <tr>
+        <th>Product ID</th>
+        <th>Product Name</th>
+        <th>Product Price</th>
+        <th>Date of Purchase</th>
+        <th>AvailabilityStatus</th>
+        <th>CategoryId</th>
+        <th>BrandId</th>
+        <th>Active</th>
+        <th>Details</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>@item.ProductId</td>
+    <td>@item.ProductName</td>
+    <td>@item.Price</td>
+    <td>@item.DateOfPurchase</td>
+    <td>@item.AvailabilityStatus</td>
+    <td>@item.CategoryId</td>
+    <td>@item.BrandId</td>
+    <td>@item.Active</td>
+    <td>
+        <a href="/product/details/@item.ProductId" class=" btn btn-outline-info">Details</a>
+    </td>
+    <td>
+        <a href="/product/edit/@item.ProductId" class=" btn btn-outline-primary">Edit</a>
+    </td>
+    <td>
+        <a href="/product/delete/@item.ProductId" class=" btn btn-outline-danger">Delete</a>
+    </td>
+</tr>
+    }
+</table>
+<div class="text-white">
+    <a href="/product/create" class="btn btn-outline-success">Add New Product</a>
+</div>
+
