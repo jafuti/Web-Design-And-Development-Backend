@@ -1,0 +1,45 @@
+﻿@model List<Product>
+
+@{
+    ViewData["Titlt"] = "Index";
+}
+<table class="table">
+    <tr>
+        <th>Product ID</th>
+        <th>Product Name</th>
+        <th>Product Price</th>
+        <th>Date of Purchase</th>
+        <th>AvailabilityStatus</th>
+        <th>Category Name</th>
+        <th>Brand Name</th>
+        <th>Active</th>
+        <th>Details</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.ProductName</td>
+            <td>@item.Price</td>
+            <td>@item.DateOfPurchase</td>
+            <td>@item.AvailabilityStatus</td>
+            <td>@item.Category.CategoryName</td>
+            <td>@item.Brand.BrandName</td>
+            <td>@item.Active</td>
+            <td>
+                <a href="/product/details/@item.ProductId" class=" btn btn-outline-info">Details</a>
+            </td>
+            <td>
+                <a href="/product/edit/@item.ProductId" class=" btn btn-outline-primary">Edit</a>
+            </td>
+            <td>
+                <a href="/product/delete/@item.ProductId" class=" btn btn-outline-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div class="text-white">
+    <a href="/product/create" class="btn btn-outline-success">Add New Product</a>
+</div>
