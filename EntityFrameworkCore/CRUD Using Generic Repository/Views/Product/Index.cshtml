@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Titlt"] = "Index";
+}
+<table class="table">
+    <tr>
+        <th>Product ID</th>
+        <th>Product Name</th>
+        <th>Product Price</th>
+        <th>Date of Purchase</th>
+        <th>AvailabilityStatus</th>
+        <th>Category Name</th>
+        <th>Brand Name</th>
+        <th>Active</th>
+        <th>Details</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.ProductName</td>
+            <td>@item.Price</td>
+            <td>@item.DateOfPurchase</td>
+            <td>@item.AvailabilityStatus</td>
+            <td>@item.CategoryId</td>
+            <td>@item.BrandId</td>
+            <td>@item.Active</td>
+            <td>
+                <a href="/product/details/@item.Id" class=" btn btn-outline-info"><i class="bi bi-eye"></i>Details</a>
+            </td>
+            <td>
+                <a href="/product/edit/@item.Id" class=" btn btn-outline-primary"><i class="bi bi-pencil-square"></i>Edit</a>
+            </td>
+            <td>
+                <a href="/product/delete/@item.Id" class=" btn btn-outline-danger"><i class="bi bi-trash"></i>Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div style="position:fixed; right:25px; bottom:50px" class="text-white">
+    <a asp-action="Create" class="btn btn-success"><i class="bi bi-plus-circle"></i>   Add New</a>
+</div>
