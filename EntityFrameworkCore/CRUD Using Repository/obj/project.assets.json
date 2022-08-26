@@ -7255,11 +7255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jafar\\source\\repos\\WebApplication14-2021A\\WebApplication14-2021A.csproj",
+      "projectUniqueName": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\EntityFrameworkCore\\CRUD Using Repository\\WebApplication14-2021A.csproj",
       "projectName": "WebApplication14-2021A",
-      "projectPath": "C:\\Users\\Jafar\\source\\repos\\WebApplication14-2021A\\WebApplication14-2021A.csproj",
+      "projectPath": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\EntityFrameworkCore\\CRUD Using Repository\\WebApplication14-2021A.csproj",
       "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jafar\\source\\repos\\WebApplication14-2021A\\obj\\",
+      "outputPath": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\EntityFrameworkCore\\CRUD Using Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

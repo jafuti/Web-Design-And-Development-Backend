@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKLVJnGG94EToO23ChbIx+K4WU8ijFa4VVVG0KV9bpbQunGz69IW5SV6gaJ8jz9QVllluM2RtvHRIfHHr4Sa4g==",
+  "dgSpecHash": "x2cepgIHgBQ43nEcYuHYnRoPp2wmcdrI27p3jTvJgWUmvRw9hWEOZPqZVEw6gPOFTre5lGXcH6GotkExB0a0yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jafar\\Desktop\\CRUD Service\\WebApplication14-2021A\\WebApplication14-2021A.csproj",
+  "projectFilePath": "D:\\AllFILE\\allpro\\Web Development and Design Backend\\EntityFrameworkCore\\CRUD Using Generic Repository\\WebApplication14-2021A.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jafar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jafar\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
